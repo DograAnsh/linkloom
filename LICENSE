@@ -1,0 +1,16 @@
+# LinkLoom
+
+**LinkLoom** is an open-source link management tool designed to help you organize, track, and share links easily.  
+
+## Features
+- Add, delete, and organize links
+- Track clicks and usage
+- Simple and user-friendly interface
+
+## Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/DograAnsh/linkloom.git
+cd linkloom
+npm install
+npm start
