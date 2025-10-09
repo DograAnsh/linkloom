@@ -149,4 +149,4 @@ These platforms were chosen because they are:
 > 💡 **Tip:** Always read each site’s guidelines before submitting guest posts or PR to ensure the best acceptance and reach.
 ## 🚀 Stay tuned
 I’ll keep adding more high-quality sites as I discover them.  
-Have a favorite I missed? Open an issue or drop me a message!
+Have a favorite I missed? Open an issue or drop me a message! sd
